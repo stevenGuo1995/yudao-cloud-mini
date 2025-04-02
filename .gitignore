@@ -31,6 +31,7 @@ target/*
 /.nb-gradle/
 /build/
 
+application-local.yml
 
 
 ### admin-web ###
